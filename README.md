@@ -1,7 +1,7 @@
 # ModeloLogicoRelacional_SergioGonzalezGuerra
 
 ## Vivero:
-![vivero](./image/vivero.JPG)
+![vivero](./imagenes/Vivero.JPG)
 
 ## Catastro:
-![catastro](./image/catastro.JPG)
+![catastro](./imagenes/Catastro.JPG)
